@@ -1,0 +1,19 @@
+{
+  "name": "npmandwebpacksetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurau-anil/NpmAndWebPackSetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurau-anil/NpmAndWebPackSetup/issues"
+  },
+  "homepage": "https://github.com/gurau-anil/NpmAndWebPackSetup#readme"
+}
